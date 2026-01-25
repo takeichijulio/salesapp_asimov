@@ -62,5 +62,5 @@ O foco do projeto é demonstrar como o Python pode ser utilizado como ferramenta
 
 Autor
 
-Projeto desenvolvido por Julinho.
+Projeto desenvolvido por Julio Takeichi.
 Estudos em Python, análise de dados e automação.
