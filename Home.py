@@ -18,6 +18,6 @@ st.markdown(
 
     Os dados utilizados foram gerados pelo script 'gerador_de_vendas.py' que se encontra junto do código fonte do projeto. Os dados podem ser visualizados na aba de tabelas!
 
-    Sugestões podem ser enviadas para o email contato@asimov.academy ou diretamente na nossa [comunidade](https://discord.gg/xsRU2Ay9tA).
+    Sugestões podem ser enviadas diretamente pela nossa [comunidade](https://discord.gg/xsRU2Ay9tA).
     '''
 )
